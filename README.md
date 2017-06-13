@@ -42,3 +42,4 @@ $calculator->addBusinessDays(3);             // add X working days
 $result = $calculator->getDate();            // \DateTime
 echo $result->format('Y-m-d');               // 2001-01-03
 ```
+# BusinessDaysCalculator
